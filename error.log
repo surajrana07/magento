@@ -6,3 +6,4 @@
 [Wed Nov 20 14:23:29.477895 2019] [authz_core:error] [pid 11886] [client 127.0.0.1:47046] AH01630: client denied by server configuration: /home/suraj/workplace/magento/app/etc/config.php
 [Wed Nov 20 14:57:35.328951 2019] [authz_core:error] [pid 11825] [client 127.0.0.1:47612] AH01630: client denied by server configuration: /home/suraj/workplace/magento/app/etc/config.php
 [Wed Nov 20 15:29:49.407723 2019] [authz_core:error] [pid 13464] [client 127.0.0.1:55752] AH01630: client denied by server configuration: /home/suraj/workplace/magento/app/etc/config.php
+[Thu Nov 21 11:51:19.499229 2019] [authz_core:error] [pid 8038] [client 127.0.0.1:47654] AH01630: client denied by server configuration: /home/suraj/workplace/magento/app/etc/config.php
